@@ -5,4 +5,5 @@ hipotesis acerca de las preferencias de sus planificaciones urbanas, ya que se p
 Los datos se obtuvieron de: https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/covid19-vaccination-access, que representa lo medido en Estados Unidos entre junio de 2021 y septiembre de 2022
 
 ## Datos
-Se cargan los datos y se utiliza BigQuery para poder visualizarlos:
+Los datos estan separados por medios de transporte.Se cargan los datos y se utiliza BigQuery para poder visualizarlos:
+![Datos brutos](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Datos%20brutos.png)
