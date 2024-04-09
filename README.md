@@ -20,6 +20,10 @@ Podemos realizar una mejor observación contando las veces que se repiten nombre
 
 ![Conteo de datos](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Conteo%20de%20datos.png)
 
-Vemos ciertos nombres que se repiten bastante(En el código están los datos totalmente desplegados), por ejemplo, en los nombres de la instalación se repiten mucho los nombres CVS Pharmacy, Walgreens Pharmacy, Walmart y Rite Aid. El país que mas se repite es Estados Unidos, mientras Puerto Rico representa un porcentaje muy menor respecto al total de datos.
+Vemos ciertos nombres que se repiten bastante(En el código están los datos totalmente desplegados), por ejemplo, en los nombres de la instalación se repiten mucho los nombres CVS Pharmacy, Walgreens Pharmacy, Walmart y Rite Aid. Si observamos el conteo de paises podemos darnos cuenta de algo interesante:
 
-Mientras que los estados con mas instalaciones para vacunarse son Los Angeles, Orange, Montgomery y Cook. El medio de transporte mas visto es camina, mientras conducir y el transporte público ocupan un porcentaje bastante menor.
+![]()
+
+Estados Unidos corresponde a un 99,62% de los datos totales, por lo que podemos tomar toda la data de Estados Unidos para eliminar  la columna de pais y reducir aún mas los datos totales
+
+Tambien podemos observar que los estados con mas instalaciones para vacunarse son Los Angeles, Orange, Montgomery y Cook. El medio de transporte mas visto es camina, mientras conducir y el transporte público ocupan un porcentaje bastante menor.
