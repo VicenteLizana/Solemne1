@@ -1,7 +1,9 @@
 # Selección de datos
-Seleccionamos los datos de acceso en un tiempo determinado desde ciertas zonas a centros vacunatorios para covid-19 en Estados Unidos y Puerto Rico, disponibles en Google Cloud. Esto nos dará una percepción para comparar la conectividad que presentan distintos estados y generar hipotesis acerca de las preferencias de sus planificaciones urbanas, ya que se presentan distintos medios para acercarse.
+Seleccionamos los datos de acceso en un tiempo determinado desde ciertas zonas a centros vacunatorios para covid-19 en Estados Unidos, Puerto Rico y las islas virgenes de Estados Unidos entre junio de 2021 y septiembre de 2022 que estám disponibles en Google Cloud.
 
-Los datos se obtuvieron de: https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/covid19-vaccination-access, que representa lo medido en Estados Unidos entre junio de 2021 y septiembre de 2022.
+Esto nos dará una percepción para comparar la conectividad que presentan distintos estados y paises, junto a generar hipotesis acerca de las preferencias de sus planificaciones urbanas, ya que se presentan distintos medios para acercarse.
+
+Los datos se obtuvieron de: https://console.cloud.google.com/marketplace/product/bigquery-public-datasets/covid19-vaccination-access
 
 
 ## Datos
@@ -9,7 +11,7 @@ Los datos estan separados por una tabla para cada medio de transporte y una tabl
 
 ![Datos brutos](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Datos%20brutos.png)
 
-De esta forma se pueden eliminar las columnas de datos que son redundantes, en este caso hay varias columnas referentes a las posición de las instalaciones de vacunación que se pueden eliminar. Así las columnas que se presentarían despues de limpiar son: nombre de la instalación, pais, estado/subregión, medio de transporte y tiempo de viaje.
+De esta forma se pueden eliminar las columnas de datos que son redundantes, en este caso hay varias columnas referentes a las posición e identificación de las instalaciones de vacunación que se pueden eliminar por este motivo. Así las columnas que se presentarían despues de limpiar son: nombre de la instalación, pais, estado/subregión, medio de transporte y tiempo de viaje.
 Esto reduce la tabla de 15 a 5 columnas, haciendo que sea mas facil gestionar la información.
 
  Si observamos el conteo de paises podemos darnos cuenta de algo interesante:
