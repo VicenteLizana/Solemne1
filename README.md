@@ -1,5 +1,5 @@
 # Selección de datos
-Seleccionamos los datos de acceso en un tiempo determinado desde ciertas zonas a centros vacunatorios para covid-19 en Estados Unidos, Puerto Rico y las islas virgenes de Estados Unidos entre junio de 2021 y septiembre de 2022 que estám disponibles en Google Cloud.
+Seleccionamos los datos de acceso en un tiempo determinado desde ciertas zonas a centros vacunatorios para covid-19 en Estados Unidos, Puerto Rico y las islas virgenes de Estados Unidos entre junio de 2021 y septiembre de 2022 que están disponibles en Google Cloud.
 
 Esto nos dará una percepción para comparar la conectividad que presentan distintos estados y paises, junto a generar hipotesis acerca de las preferencias de sus planificaciones urbanas, ya que se presentan distintos medios para acercarse.
 
