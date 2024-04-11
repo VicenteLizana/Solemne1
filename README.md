@@ -30,4 +30,29 @@ Podemos realizar una mejor observación contando las veces que se repiten nombre
 
 Vemos ciertos nombres que se repiten bastante(En el código están los datos totalmente desplegados), por ejemplo, en los nombres de la instalación se repiten mucho los nombres CVS Pharmacy, Walgreens Pharmacy, Walmart y Rite Aid.
 
-Tambien podemos observar que los estados con mas instalaciones para vacunarse son Los Angeles, Orange, Montgomery y Cook. El medio de transporte mas visto es camina, mientras conducir y el transporte público ocupan un porcentaje bastante menor.
+Tambien podemos observar que los estados con mas instalaciones para vacunarse son Los Angeles, California, Nueva York. El medio de transporte mas visto es caminar, mientras conducir y el transporte público ocupan un porcentaje bastante menor.
+
+## Gráficas
+
+Realizamos un Pie Chart para poder visualizar la proporción de los nombres de las 5 instalaciones mas repetidos:
+
+California:
+
+![]()
+
+Nueva York:
+
+![]()
+
+Florida:
+
+![]()
+
+Es claramente visible que la principal distribuidora en estos estados es CVS Pharmacy, mientras Wallgreens Pharmacy tambien se presenta en todos los estados. El resto de instalaciones que no ocupan estos nombres equivalen a un menos del 30%.
+
+Aprovechando esta selección de estados, tambien veamos como se comparan las cantidades de rutas por medio de transporte:
+
+![]()
+
+
+
