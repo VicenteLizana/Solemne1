@@ -58,4 +58,4 @@ Es claramente visible que California es el estado con mas instalaciones, le sigu
 
 
 
-![Barras horizontales]()
+![Barras horizontales](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Barras%20horizontales.png)
