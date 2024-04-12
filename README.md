@@ -54,5 +54,8 @@ Aprovechando esta selección de estados, tambien veamos como se comparan las can
 
 ![Sunburst 3 datos](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Sunburst%203%20datos.png)
 
-Es claramente visible que 
+Es claramente visible que California es el estado con mas instalaciones, le sigue Nueva York y Florida. Otro detalle que podemos ver es que el caminar es el medio que mas rutas posee, lo que a priori podría significar que estos estados permiten una movilidad cómoda al caminar para encontrar una instalación dónde vacunarse.
 
+
+
+![Barras horizontales]()
