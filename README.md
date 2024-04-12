@@ -38,21 +38,21 @@ Realizamos un Pie Chart para poder visualizar la proporción de los nombres de l
 
 California:
 
-![]()
+![Grafico Pie Modos California](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Grafico%20Pie%20Modos%20California.png)
 
 Nueva York:
 
-![]()
+![Grafico Pie Modos Nueva York](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Grafico%20Pie%20Modos%20Nueva%20York.png)
 
 Florida:
 
-![]()
+![Grafico Pie Modos Florida](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Grafico%20Pie%20Modos%20Florida.png)
 
 Es claramente visible que la principal distribuidora en estos estados es CVS Pharmacy, mientras Wallgreens Pharmacy tambien se presenta en todos los estados. El resto de instalaciones que no ocupan estos nombres equivalen a un menos del 30%.
 
 Aprovechando esta selección de estados, tambien veamos como se comparan las cantidades de rutas por medio de transporte:
 
-![]()
+![Sunburst 3 datos](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Sunburst%203%20datos.png)
 
 
 
