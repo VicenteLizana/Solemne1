@@ -1,5 +1,8 @@
 # Selección de datos
-Seleccionamos los datos de acceso en un tiempo determinado desde ciertas zonas a centros vacunatorios para covid-19 en Estados Unidos, Puerto Rico y las islas virgenes de Estados Unidos entre junio de 2021 y septiembre de 2022 que están disponibles en Google Cloud.
+
+Cargamos los datos desde una API pública disponible en: https://coronavirus.m.pipedream.net/
+
+Estos datos se ven engorroso para trabajar y no representan datos de interes para este analisis. Por lo tanto seleccionamos los datos de acceso en un tiempo determinado desde ciertas zonas a centros vacunatorios para covid-19 en Estados Unidos, Puerto Rico y las islas virgenes de Estados Unidos entre junio de 2021 y septiembre de 2022 que están disponibles en Google Cloud.
 
 Esto nos dará una percepción para comparar la conectividad que presentan distintos estados y paises, junto a generar hipotesis acerca de las preferencias de sus planificaciones urbanas, ya que se presentan distintos medios para acercarse.
 
@@ -36,15 +39,15 @@ Tambien podemos observar que los estados con mas instalaciones para vacunarse so
 
 Realizamos un Pie Chart para poder visualizar la proporción de los nombres de las 5 instalaciones mas repetidos:
 
-California:
+# California:
 
 ![Grafico Pie Modos California](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Grafico%20Pie%20Modos%20California.png)
 
-Nueva York:
+# Nueva York:
 
 ![Grafico Pie Modos Nueva York](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Grafico%20Pie%20Modos%20Nueva%20York.png)
 
-Florida:
+# Florida:
 
 ![Grafico Pie Modos Florida](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Grafico%20Pie%20Modos%20Florida.png)
 
@@ -61,3 +64,5 @@ Tambien podemos analizar la presencia de las instalaciones mas repetidas a nivel
 ![Barras horizontales](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Barras%20horizontales.png)
 
 Vemos que hay 4 instalaciones, CVS Pharmacy, Walgreens Pharmacy, Walmart Pharmacy y Rite Aid que corresponde con los Pie Chart que graficamos anteriormente, ya que son los nombres que hemos visto ocupando la mayoría de instalaciones posibles. Aquí se piuede apreciar la diferencia entre los primeros 5 con el resto, ya que el total de instalaciones de CVS Pharmacy es mayor que la suma de todas las instalaciones que no fueron nombradas entre las 4 mas grandes, pasa lo mismo con Wallgreen Pharmacy, sin embargo, Walmart Pharmacy y Rite Aid no cumplen con esto.
+
+![]()
