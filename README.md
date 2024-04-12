@@ -54,5 +54,5 @@ Aprovechando esta selección de estados, tambien veamos como se comparan las can
 
 ![Sunburst 3 datos](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Sunburst%203%20datos.png)
 
-
+Es claramente visible que 
 
