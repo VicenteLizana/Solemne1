@@ -65,5 +65,8 @@ Tambien podemos analizar la presencia de las instalaciones mas repetidas a nivel
 
 Vemos que hay 4 instalaciones, CVS Pharmacy, Walgreens Pharmacy, Walmart Pharmacy y Rite Aid que corresponde con los Pie Chart que graficamos anteriormente, ya que son los nombres que hemos visto ocupando la mayoría de instalaciones posibles. Aquí se piuede apreciar la diferencia entre los primeros 5 con el resto, ya que el total de instalaciones de CVS Pharmacy es mayor que la suma de todas las instalaciones que no fueron nombradas entre las 4 mas grandes, pasa lo mismo con Wallgreen Pharmacy, sin embargo, Walmart Pharmacy y Rite Aid no cumplen con esto.
 
-![Cajas modos de transporte]()
+Por ultimo veamos como estan distribuidos los medios de transporte en todo Estados Unidos:
 
+![Cajas modos de transporte](https://github.com/VicenteLizana/Solemne1/blob/master/Imagenes/Cajas%20modos%20de%20transporte.png)
+
+Podemos ver que el caminar toma un 57% del total si contamos solo caminar y manejar como medios de transporte,  algo que se mantiene cuando vemos cada estado en forma particular, lo que podría decirnos que Estados Unidos mantiene una prioridad consistente considerando la comodidad de caminar atraves de todos sus estados, aunque para asegurar esto se debería hacer un estudio por cada uno de los estados disponibles.
