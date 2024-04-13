@@ -65,4 +65,5 @@ Tambien podemos analizar la presencia de las instalaciones mas repetidas a nivel
 
 Vemos que hay 4 instalaciones, CVS Pharmacy, Walgreens Pharmacy, Walmart Pharmacy y Rite Aid que corresponde con los Pie Chart que graficamos anteriormente, ya que son los nombres que hemos visto ocupando la mayoría de instalaciones posibles. Aquí se piuede apreciar la diferencia entre los primeros 5 con el resto, ya que el total de instalaciones de CVS Pharmacy es mayor que la suma de todas las instalaciones que no fueron nombradas entre las 4 mas grandes, pasa lo mismo con Wallgreen Pharmacy, sin embargo, Walmart Pharmacy y Rite Aid no cumplen con esto.
 
-![]()
+![Cajas modos de transporte]()
+
